@@ -9,7 +9,7 @@ main()
 	cout<<"enter your second number"<<endl;
 	cin>>num2;
 	num3=num1*num2;
-	cout<<"your result is"<<num3;
+	cout<<"your result is"<<num3;4
 		
 		
 		
