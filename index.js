@@ -159,7 +159,7 @@ const persons = [
   },
   {
     id: 15,
-    first_name: "Jennilee",
+    first_name: "Jenniee",
     last_name: "Hiner",
     gender: "Female",
     salary: 109144,
